@@ -43,7 +43,7 @@ const Projects = () => {
           title="Movixnet"
           des="Built with React.js, JavaScript, Tailwind CSS, and powered by dynamic APIs, Movixnet delivers a sleek and responsive movie browsing experience. Featuring intuitive routing, custom hooks, and a user-friendly interface, it lets visitors explore trending films, search by genre, and dive into detailed movie info—all with smooth navigation and modern design."
           src={project4}
-          icon={ <a href="https://movixner.netlify.app/"><FaGlobe /></a> }
+          icon={ <a href="https://shimulmovixner.netlify.app/"><FaGlobe /></a> }
         />
         <ProjectsCard
           title="Spotify Clone"

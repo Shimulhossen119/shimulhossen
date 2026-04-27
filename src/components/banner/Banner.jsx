@@ -44,7 +44,7 @@ const Banner = () => {
               delay: 0.8,
             }} className="text-3xl sm:text-5xl font-bold text-white leading-tight">
             Hi, I'm{" "}
-            <span className="text-designColor black"> MD RAHUL RANA</span>
+            <span className="text-designColor black"> MD SHIMUL HOSSEN</span>
           </motion.h1>
           <motion.h2 initial={{ opacity: 0, y: 0.5 }}
             animate={{ opacity: 1, y: 1 }}
